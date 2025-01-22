@@ -1,7 +1,7 @@
 # Hello software nomad! 👋
 ---
 
-- **🌱 Currently learning: Master's Degree **in** Software Engineering** at **Babes-Bolyai University** in Cluj-Napoca.
+- **🌱 Currently learning: Master's Degree **in** Software Engineering** at **Babes-Bolyai University** in Cluj-Napoca
 
 ---
 
@@ -26,9 +26,3 @@
 
 ### 📊 GitHub Stats
 ![Lys4nder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lys4nder&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys4nder&layout=compact&theme=radical)
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something awesome together! 🚀
