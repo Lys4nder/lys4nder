@@ -1,7 +1,7 @@
 # Hello software nomad! 👋
 ---
 
-- **🌱 Currently learning: Software Engineering** at **Babes-Bolyai University** in Cluj-Napoca.
+- **🌱 Currently learning: Master's Degree **in** Software Engineering** at **Babes-Bolyai University** in Cluj-Napoca.
 
 ---
 
