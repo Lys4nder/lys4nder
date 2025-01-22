@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello software nomad! 👋
+---
 
-<!--
-**Lys4nder/lys4nder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **🌱 Currently learning: Software Engineering** at **Babes-Bolyai University** in Cluj-Napoca.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Facts
+- I love crafting software that combines performance with elegance
+- When not coding, I enjoy playing video games and getting outdoor
+
+---
+
+### 📫 How to Reach Me
+- **LinkedIn:** [https://www.linkedin.com/in/lysander-pi%C8%9Bu-472003224/](#)
+
+---
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23341.svg?style=flat&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![AL](https://img.shields.io/badge/AL%20%7C%20Dynamics%20365-%2300599C.svg?style=flat&logo=microsoft-dynamics&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Lys4nder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lys4nder&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lys4nder&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something awesome together! 🚀
